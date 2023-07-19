@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de pruepa del PrepCourse de Henry
+Prueba de como crear un repositorio en la nube y clonarlo
